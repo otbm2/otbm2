@@ -1,6 +1,6 @@
 # OTBM2 Bundle
 
-This directory holds the OTBM2 files currently used by each component.
+This directory holds OTBM2 files usable with the game server, client and editor.
 
 ## Layout
 
@@ -11,7 +11,8 @@ This directory holds the OTBM2 files currently used by each component.
 ## Current Files
 
 ### `server/`
-- `world.otbm2`
+- `world.otbm2`, example world
+- `tibia-world.otbm2.zip`, Tibia 7.6 world
 
 ### `client/`
 - `data.otbm2`
@@ -19,8 +20,8 @@ This directory holds the OTBM2 files currently used by each component.
 
 ### `editor/`
 - `world.otbm2`
-- `data.otbm2`
-- `sprites.otbm2`
+- `data.otbm2`, same as client/
+- `sprites.otbm2`, same as client/
 
 ## Source Mapping
 
